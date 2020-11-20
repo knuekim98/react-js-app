@@ -7,9 +7,16 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "bootstrap": "^4.0.0-alpha.6",
+    "parallax": "0.0.0",
+    "react": "^16.14.0",
+    "react-addons-css-transition-group": "^15.6.2",
+    "react-addons-transition-group": "^15.6.2",
+    "react-anchor-link-smooth-scroll": "^1.0.12",
+    "react-dom": "^16.14.0",
+    "react-parallax": "^3.1.2",
+    "react-scripts": "3.4.1",
+    "reactstrap": "^8.7.1"
   },
   "scripts": {
     "start": "react-scripts start",
